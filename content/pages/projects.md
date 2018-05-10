@@ -21,7 +21,7 @@ were SVR, Lasso, Ridge Regression, Linear Regression with varying kernels.</p>
 
 
 <br>
-<h2>Marine Objects Detection and Segmentation [<a href="www.kushagramahajan.me/IA_Project_Report.pdf">report</a>]</h2>
+<h2>Marine Objects Detection and Segmentation [<a href="http://kushagramahajan.me/IA_Project_Report.pdf">report</a>]</h2>
 <h4> Prof. AV Subramanyam, IIIT Delhi</h4>
 <p>AlexNet pretrained on ImageNet was used for detection of marine objects like ships, liners,
 boats. We made use of Segnet: A Deep Convolutional Encoder-Decoder Architecture for

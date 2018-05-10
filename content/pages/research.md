@@ -1,7 +1,7 @@
 Title: Research
 
 <br>
-<h2>Pose - Aware Fine Grained Recognition using Pose Experts (BTech Thesis) [<a href="www.kushagramahajan.me/fgvc_icip.pdf">paper</a>]</h2>
+<h2>Pose - Aware Fine Grained Recognition using Pose Experts (BTech Thesis) [<a href="http://kushagramahajan.me/fgvc_icip.pdf">paper</a>]</h2>
 <h4> Prof. Chetan Arora, IIIT Delhi</h4>
 <p>In this work, pose specific Convolutional Neural Networks were trained for non-deformable
 pose aware dataset images and then merged. In addition, we have trained an additional
@@ -12,7 +12,7 @@ art for CUB-200-2011 dataset. Contributed additional pose aware footwear dataset
 
 
 <br>
-<h2>Exploiting Texture Cues in Clothing Parsing [<a href="www.kushagramahajan.me/texture_icip.pdf">paper</a>]</h2>
+<h2>Exploiting Texture Cues in Clothing Parsing [<a href="http://kushagramahajan.me/texture_icip.pdf">paper</a>]</h2>
 <h4> Prof. Chetan Arora, IIIT Delhi</h4>
 <p>We propose a two-stream deep neural network architecture for fashion image parsing. While
 the first stream uses the regular fully convolutional network segmentation architecture to
