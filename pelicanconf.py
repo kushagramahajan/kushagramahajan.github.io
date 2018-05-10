@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Kushagra Mahajan'
 SITENAME = u'Kushagra Mahajan'
-SITEURL = ''
+SITEURL = 'http://kushagramahajan.me'
 
 PATH = 'content'
 
@@ -20,14 +20,25 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+#         ('Python.org', 'http://python.org/'),
+#         ('Jinja2', 'http://jinjaself.pocoo.org/'),
+#         ('You can modify those links in your config file', '#'),)
+
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+
+MENUITEMS = (
+    ('About Me', '/pages/about-me.html'),
+    ('Research', '/pages/research.html'),
+    ('Projects', '/pages/academic-projects.html'),
+    ('Resume', 'http://kushagramahajan.me/cv.pdf'),
+    ('Contact', '/pages/contact.html'),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
