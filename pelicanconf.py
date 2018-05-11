@@ -34,10 +34,10 @@ IGNORE_FILES = ['../index.html', 'index.html']
 TEMPLATE_PAGES = {'index.html': '../output/index.html'}
 MENUITEMS = (
     ('About Me', '/'),
-    ('Research', '/output/pages/research.html'),
-    ('Projects', '/output/pages/academic-projects.html'),
+    ('Research', '/pages/research.html'),
+    ('Projects', '/pages/academic-projects.html'),
     ('Resume', 'http://kushagramahajan.me/cv.pdf'),
-    ('Contact', '/output/pages/contact.html'),
+    ('Contact', '/pages/contact.html'),
 )
 
 DEFAULT_PAGINATION = 10
