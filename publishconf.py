@@ -25,11 +25,11 @@ IGNORE_FILES = ['../index.html', 'index.html']
 TEMPLATE_PAGES = {'index.html': '../output/index.html'}
 
 MENUITEMS = (
-    ('About Me', '/pages/about-me.html'),
-    ('Research', '/pages/research.html'),
-    ('Projects', '/pages/academic-projects.html'),
+    ('About Me', '/'),
+    ('Research', '/output/pages/research.html'),
+    ('Projects', '/output/pages/academic-projects.html'),
     ('Resume', 'http://kushagramahajan.me/cv.pdf'),
-    ('Contact', '/pages/contact.html'),
+    ('Contact', '/output/pages/contact.html'),
 )
 
 
