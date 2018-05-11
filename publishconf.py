@@ -10,13 +10,24 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://kushagramahajan.me'
+SITEURL = 'http://kushagramahajan.github.io'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+
+MENUITEMS = (
+    ('About Me', '/pages/about-me.html'),
+    ('Research', '/pages/research.html'),
+    ('Projects', '/pages/academic-projects.html'),
+    ('Resume', 'http://kushagramahajan.me/cv.pdf'),
+    ('Contact', '/pages/contact.html'),
+)
+
 
 # Following items are often useful when publishing
 
