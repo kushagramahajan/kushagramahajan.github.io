@@ -17,8 +17,12 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = False
+
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
+
+IGNORE_FILES = ['../index.html', 'index.html']
+TEMPLATE_PAGES = {'index.html': '../output/index.html'}
 
 MENUITEMS = (
     ('About Me', '/pages/about-me.html'),
