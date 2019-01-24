@@ -8,5 +8,5 @@ I can be reached at....
 
 # Profile Handles #
 
-**LinkedIn: ** kushagra-mahajan-456aaaaa [<a href="www.linkedin.com/in/kushagra-mahajan-456aaaaa">link</a>]<br><br>
+**LinkedIn: ** kushagra-mahajan-456aaaaa [<a href="https://linkedin.com/in/kushagra-mahajan-456aaaaa">link</a>]<br><br>
 **Github: ** kushagramahajan [<a href="https://github.com/kushagramahajan">link</a>]
