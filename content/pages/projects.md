@@ -6,8 +6,7 @@ Title: Academic Projects
 <p>Comparison among the HOG based, Deformable Part Model and deep learning based Single
 Shot Detector for detecting car density on the roads through surveillance videos. Involved lane
 isolation and vehicle speed detection through metric rectification followed by KLT tracking to
-produce a deployable system. System to be deployed on Swarath (Mahindra’s Spark Rise
-Driverless Car Challenge Vehicle at IIIT Delhi).</p>
+produce a deployable system.</p>
 
 
 <br>
@@ -21,7 +20,7 @@ were SVR, Lasso, Ridge Regression, Linear Regression with varying kernels.</p>
 
 
 <br>
-<h2>Marine Objects Detection and Segmentation [<a href="http://kushagramahajan.me/IA_Project_Report.pdf">report</a>]</h2>
+<h2>Marine Objects Detection and Segmentation</h2>
 <h4> Prof. AV Subramanyam, IIIT Delhi</h4>
 <p>AlexNet pretrained on ImageNet was used for detection of marine objects like ships, liners, boats. We made use of Segnet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation. The problem poses difficulty in tracking these marine objects due to the motion blur of the camera in recording these videos. We used DWT filter to analyze the limitations of our model with regards to the relative sizes of the images and objects of interest</p>
 
