@@ -3,7 +3,7 @@ Title: Contact
 I can be reached at....
 
 **Phone Number: ** +91-9654744817<br><br>
-**Email: ** <a href="kushagra14055@iiitd.ac.in">kushagra14055@iiitd.ac.in</a>
+**Email: ** <a href="mailto:kushagra14055@iiitd.ac.in">kushagra14055@iiitd.ac.in</a>
 <br><br>
 
 # Profile Handles #
