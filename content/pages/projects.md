@@ -46,7 +46,7 @@ monitor the efficiency of the TAs.</p>
 
 
 <br>
-<h2>Building GNU/Linux shell using C</h2>
+<h2>Building GNU/Linux shell using C [<a href="https://github.com/kushagramahajan/LinuxShell">code</a>]</h2>
 <h4> Prof. Pushpendra Singh, IIIT Delhi</h4> 
 <p>The shell was designed to perform all the shell operations including pipelining, redirecting
 input/output. System commands like top, kill, cp along with other popular linux
