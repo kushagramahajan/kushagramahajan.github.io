@@ -11,7 +11,7 @@ Title: Academic Projects
 <p>Comparison among the HOG based, Deformable Part Model and deep learning based Single
 Shot Detector for detecting car density on the roads through surveillance videos. Involved lane
 isolation and vehicle speed detection through metric rectification followed by KLT tracking to
-produce a deployable system.</p>
+produce a system which will be deployed on Swarath, the autonomous vehicle at IIIT Delhi.</p>
 
 
 <br>
