@@ -23,6 +23,10 @@ features used for analysis: Momentum over past 10 days, moving averages, NIFTY i
 day volatility, average price change with varying windows, turnover etc. Techniques used
 were SVR, Lasso, Ridge Regression, Linear Regression with varying kernels.</p>
 
+<br>
+<h2>Analysis of Customer Churn Patterns to Improve Customer Retention [<a href="https://github.com/kushagramahajan/kushagramahajan.github.io/blob/master/CustomerChurn.pdf">report</a>]</h2>
+<h4> Prof. Sumit Bhatia, IIIT Delhi</h4>
+<p>Customer Churn occurs when customers or subscribers stop doing business with a company or service. We apply several data mining algorithms to derive insights from the data that might help businesses, particularly telecom companies, to retain their existing customer base.</p>
 
 <br>
 <h2>Marine Objects Detection and Segmentation</h2>
