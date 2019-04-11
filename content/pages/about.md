@@ -1,6 +1,6 @@
 Title: About Me
 
-I am currently working at <a href="https://www.tcs.com/research-and-innovation">TCS Research and Innovation Labs</a> as Machine Learning Researcher. I am a part of the Computer Vision research group, working on the visual analysis of documents. I completed my <a href="https://en.wikipedia.org/wiki/Bachelor_of_Technology">Bachelor of Technology</a> in Computer Science and Engineering from <a href="https://iiitd.ac.in/">Indraprastha Institute of Information Technology Delhi (IIIT Delhi), India</a>. My research interests are in Computer Vision, Machine Learning and Deep Learning.
+I am currently working at <a href="https://www.tcs.com/research-and-innovation">TCS Research and Innovation Labs</a> as Machine Learning Researcher. I am a part of the Computer Vision research group, working on the visual analysis of documents. I completed my <a href="https://en.wikipedia.org/wiki/Bachelor_of_Technology">Bachelor of Technology</a> in Computer Science from <a href="https://iiitd.ac.in/">Indraprastha Institute of Information Technology Delhi (IIIT Delhi), India</a>. My research interests are in Computer Vision, Machine Learning and Deep Learning.
 <br>
 
 My CV can be found [here](http://kushagramahajan.me/cv.pdf "Kushagra's CV").
