@@ -36,7 +36,7 @@ MENUITEMS = (
     ('About Me', '/'),
     ('Research', '/pages/research.html'),
     ('Projects', '/pages/academic-projects.html'),
-    ('Resume', 'http://kushagramahajan.me/cv.pdf'),
+    ('Resume', 'http://kushagramahajan.me//pdf/cv.pdf'),
     ('Contact', '/pages/contact.html'),
 )
 

@@ -1,30 +1,30 @@
 Title: Research
 
 <br>
-<h2>Pose - Aware Fine Grained Recognition using Pose Experts (BTech Thesis) [<a href="http://kushagramahajan.me/fgvc_icip.pdf">paper</a>]</h2>
-<h4> Prof. Chetan Arora, IIIT Delhi</h4>
-<p>In this work, pose specific Convolutional Neural Networks were trained for non-deformable pose aware dataset images and then merged. In addition, we have trained an additional meta-network to identify the pose of the supplied image. The ensemble achieved significantly better results than deeper networks. Our method achieved an improvement in performance on the benchmark Stanford Cars, FGVC-Aircrafts, DeepFashion datasets and the contributed Footwear dataset. <b>This work was accepted in IEEE International Conference on Image Processing (ICIP 2018).</b></p>
+<h2>Document Information Extraction [<a href="http://kushagramahajan.me/papers/ICDAR_Workshop.pdf">paper</a>]</h2>
+<h4> Dr. Lovekesh Vig, TCS Research and Innovation Labs</h4>
+<p>We used unambiguous points in characters as keypoints for homography estimation to accurately align document images with a template document. This novel, fast, and memory efficient approach allows precise retrieval of document fields, followed by text recognition on a large scale. Tested on real world datasets of different kinds of forms. <b>This work was published at IEEE ICDAR Workshop on Camera-Based Document Analysis & Recognition 2019.</b></p>
+
+<br>
+<h2>Pose - Aware Fine Grained Recognition using Pose Experts (BTech Thesis) [<a href="http://kushagramahajan.me/papers/fgvc_icip.pdf">paper</a>]</h2>
+<h4> Prof. Chetan Arora, IIIT Delhi (now at IIT Delhi)</h4>
+<p>In this work, we exploited the pose structure in FGVC problems by training pose specific CNNs and a meta network for aiding pose identification. These were then merged to create an ensemble. Our method achieved an improvement in performance over the state-of-the-art on the benchmark FGVC datasets like Stanford Cars, FGVC-Aircrafts, DeepFashion datasets along with the contributed Footwear dataset. <b>This work was accepted in IEEE International Conference on Image Processing (ICIP 2018).</b></p>
 
 
 <br>
-<h2>Exploiting Texture Cues in Clothing Parsing [<a href="http://kushagramahajan.me/texture_icip.pdf">paper</a>]</h2>
-<h4> Prof. Chetan Arora, IIIT Delhi</h4>
-<p>We propose a two-stream deep neural network architecture for fashion image parsing. While the first stream uses the regular fully convolutional network segmentation architecture to give accurate spatial segments, the second stream provides texture features based upon Gabor filters and helps in determining the clothing type resulting in improved recognition of the various segments. Our approach improved the state-of-the-art segmentation performance on the benchmark fashion parsing datasets, Fashionista and CFPD. <b>This work was accepted in IEEE International Conference on Image Processing (ICIP 2018).</b></p>
+<h2>Exploiting Texture Cues in Clothing Parsing [<a href="http://kushagramahajan.me/papers/texture_icip.pdf">paper</a>]</h2>
+<h4> Prof. Chetan Arora, IIIT Delhi (now at IIT Delhi)</h4>
+<p>We propose a two-stream deep neural network architecture for fashion image parsing. While the first stream uses the regular fully convolutional network segmentation architecture to give accurate spatial segments, the second stream provides texture features based upon Gabor filters and helps in determining the clothing type resulting in improved recognition of the various segments. Our approach improved the state-of-the-art segmentation performance on the benchmark fashion parsing datasets, Fashionista and CFPD. <b>This work was published at IEEE International Conference on Image Processing (ICIP 2018).</b></p>
 
 
 <br>
 <h2>Disentangling Factors of Variation in Speech</h2>
 <h4> Prof. Saket Anand, IIIT Delhi</h4>
-<p>Worked on building a kaldi based toolkit that produces alignment files and word level segmentation for the input wave files according to the supplied model. Developed CNN-RNN architectures for emotion classification on the RECOLA dataset, achieving competitive performance to the state of the art. Currently working on disentangling factors of variation in speech. Used cycle-consistency and a discriminator to improve the disentanglement of speaker style information from speech samples in the Timit dataset. We build on the Factorized Hierarchical VAE approach proposed by CSAIL, MIT.</p>
+<p>Used cycle-consistency and a discriminator for the disentanglement of speaker style information from speech samples in the Timit dataset. We build on top of the Factorized Hierarchical VAE approach proposed by CSAIL, MIT. Worked on building a kaldi based toolkit that produces alignment files and word level segmentation for the input wave files according to the supplied model. Developed CNN-RNN architectures for emotion classification on the RECOLA dataset, achieving competitive performance to the state-of-the-art.</p>
 
 
 
 <br>
 <h2>DRAM Simulator for CPU Simulator Tejas [<a href="http://www.cse.iitd.ac.in/tejas/">site</a>]</h2>
 <h4> Prof. Smruti Sarangi, IIT Delhi</h4> 
-<p>A cycle accurate model of DRAM memory controller; it is an accurate and publicly available
-DDR2/3 memory system model which can be used in both full system and trace based
-simulations. Computationally efficient due to the novel semi event-driven model. Tested
-extensively by varying number of rows, channels, row buffer management policies and found
-to give great results on memory intensive benchmarks like mcf, zeusmp, gcc etc. not only in
-terms of accurate IPC figures but also for design space exploration.</p>
+<p>Built a cycle accurate DRAM memory controller model. It leverages a combination of event driven and cycle based simulations, and the performance is at par with the state-of-the-art simulator, DRAMSim2. Computationally efficient due to the novel semi event-driven model. Tested extensively by varying number of rows, channels, row buffer management policies and found to be accurate on memory intensive benchmarks like mcf, zeusmp, gcc etc. not only in terms of IPC figures but also for design space exploration.</p>

@@ -1,17 +1,19 @@
-Title: Academic Projects
+Title: Projects
 
 <br>
-<h2>Matrix completion based imputation for single-cell RNA-seq data [<a href="https://github.com/kushagramahajan/MCGraphs-scRNAseq">code</a>] [<a href="https://github.com/kushagramahajan/MCGraphs-scRNAseq/blob/master/MCGraph-scRNAseq-imputation.pdf">report</a>]</h2>
+<h2>Hand Gesture Detection and Recognition</h2>
+<h4> Mr. Tigi Thomas, Intel Corporation</h4>
+<p>An IP project on sensor based gesture detection and recognition for virtual reality devices and laptops. My task was data preprocessing, followed by building machine learning models for gesture detection and recognition taking into consideration memory constraints and output latency. We tested our system on Google Maps and music system applications by providing gesture controls.</p>
+
+<br>
+<h2>Matrix completion based imputation for single-cell RNA-seq data [<a href="https://github.com/kushagramahajan/MCGraphs-scRNAseq">code</a>] [<a href="http://kushagramahajan.me/pdfs/scRNAseqImputationReport.pdf">report</a>]</h2>
 <h4> Prof. Angshul Majumdar, IIIT Delhi</h4>
-<p>We show that the graph regularized matrix completion model outperforms the standard nuclear-norm minimization based matrix completion model on most real world single-cell RNA sequencing datasets using several standard evaluation metrics such as clustering of cell populations, cell type separability, cell visualization, etc.</p>
+<p>We show that the graph regularized matrix completion model outperforms the standard nuclear-norm minimization based matrix completion model on most real world single-cell RNA sequencing datasets using several standard evaluation metrics such as clustering of cell populations, cell type separability, cell visualization etc.</p>
 
 <br>
-<h2>Dynamic Traffic Light System [<a href="https://github.com/kushagramahajan/DynamicTrafficLight">code</a>] [<a href="https://github.com/kushagramahajan/DynamicTrafficLight/blob/master/Project_Report.pdf">report</a>]</h2>
+<h2>Dynamic Traffic Light System [<a href="https://github.com/kushagramahajan/DynamicTrafficLight">code</a>] [<a href="http://kushagramahajan.me/pdfs/DynamicLightReport.pdf">report</a>]</h2>
 <h4> Prof. Saket Anand, IIIT Delhi</h4>
-<p>Comparison among the HOG based, Deformable Part Model and deep learning based Single
-Shot Detector for detecting car density on the roads through surveillance videos. Involved lane
-isolation and vehicle speed detection through metric rectification followed by KLT tracking to
-produce a system which will be deployed on Swarath, the autonomous vehicle at IIIT Delhi.</p>
+<p>Comparison among the HOG based, Deformable Part Model and deep learning based Single Shot Detector for detecting car density on the roads through surveillance videos. Involved lane isolation and vehicle speed detection through metric rectification followed by KLT tracking to create a deployable system.</p>
 
 
 <br>
@@ -21,10 +23,10 @@ produce a system which will be deployed on Swarath, the autonomous vehicle at II
 Cipla, TCS and study their trends and interdependence with the NIFTY index. Some of the
 features used for analysis: Momentum over past 10 days, moving averages, NIFTY index, 10-
 day volatility, average price change with varying windows, turnover etc. Techniques used
-were SVR, Lasso, Ridge Regression, Linear Regression with varying kernels.</p>
+were SVR, Lasso, Ridge Regression and Linear Regression with varying kernels.</p>
 
 <br>
-<h2>Analysis of Customer Churn Patterns to Improve Customer Retention [<a href="http://kushagramahajan.me/CustomerChurn.pdf">report</a>]</h2>
+<h2>Analysis of Customer Churn Patterns to Improve Customer Retention [<a href="http://kushagramahajan.me/pdfs/CustomerChurnReport.pdf">report</a>]</h2>
 <h4> Prof. Sumit Bhatia, IIIT Delhi</h4>
 <p>Customer Churn occurs when customers or subscribers stop doing business with a company or service. We apply several data mining algorithms to derive insights from the data that might help businesses, particularly telecom companies, to retain their existing customer base.</p>
 
@@ -54,4 +56,4 @@ monitor the efficiency of the TAs.</p>
 <h4> Prof. Pushpendra Singh, IIIT Delhi</h4> 
 <p>The shell was designed to perform all the shell operations including pipelining, redirecting
 input/output. System commands like top, kill, cp along with other popular linux
-commands were also compatible.</p>
+commands are also compatible.</p>
