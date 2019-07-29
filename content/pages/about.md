@@ -3,7 +3,7 @@ Title: About Me
 I am currently working at <a href="https://www.tcs.com/research-and-innovation">TCS Research and Innovation Labs</a> as a Researcher. I am a part of the Computer Vision and Deep Learning research group, working on the visual analysis of documents, and medical and cellular imaging. I completed my <a href="https://en.wikipedia.org/wiki/Bachelor_of_Technology">Bachelor of Technology</a> in Computer Science and Engineering from <a href="https://iiitd.ac.in/">Indraprastha Institute of Information Technology Delhi (IIIT Delhi), India</a>. My research interests are in Computer Vision, Deep Learning and Machine Learning.
 <br>
 
-My CV can be found [here](http://kushagramahajan.me/pdf/cv.pdf "Kushagra's CV").
+My CV can be found [here](http://kushagramahajan.me/pdfs/cv.pdf "Kushagra's CV").
 <br><br><br>
 
 # News #
