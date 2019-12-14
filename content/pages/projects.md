@@ -13,7 +13,7 @@ Title: Projects
 <br>
 <h2>Dynamic Traffic Light System [<a href="https://github.com/kushagramahajan/DynamicTrafficLight">code</a>] [<a href="http://kushagramahajan.me/pdfs/DynamicLightReport.pdf">report</a>]</h2>
 <h4> Prof. Saket Anand, IIIT Delhi</h4>
-<p>Comparison among the HOG based, Deformable Part Model and deep learning based Single Shot Detector for detecting car density on the roads through surveillance videos. Involved lane isolation and vehicle speed detection through metric rectification followed by KLT tracking to create a deployable system.</p>
+<p>Comparison among the HOG based, Deformable Part Model and deep learning based Single Shot Detector for detecting vehicle density on the roads through surveillance videos. Involved lane isolation and vehicle speed detection through metric rectification followed by KLT tracking to create a deployable system.</p>
 
 
 <br>
