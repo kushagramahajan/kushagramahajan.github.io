@@ -11,7 +11,7 @@ Title: Projects
 <p>We show that the graph regularized matrix completion model outperforms the standard nuclear-norm minimization based matrix completion model on most real world single-cell RNA sequencing datasets using several standard evaluation metrics such as clustering of cell populations, cell type separability, cell visualization etc.</p>
 
 <br>
-<h2>Dynamic Traffic Light System [<a href="https://github.com/kushagramahajan/DynamicTrafficLight">code</a>] [<a href="http://kushagramahajan.me/pdfs/DynamicLightReport.pdf">report</a>]</h2>
+<h2>Dynamic Traffic Light System <!--[<a href="https://github.com/kushagramahajan/DynamicTrafficLight">code</a>] [<a href="http://kushagramahajan.me/pdfs/DynamicLightReport.pdf">report</a>]--></h2>
 <h4> Prof. Saket Anand, IIIT Delhi</h4>
 <p>Comparison among the HOG based, Deformable Part Model and deep learning based Single Shot Detector for detecting vehicle density on the roads through surveillance videos. Involved lane isolation and vehicle speed detection through metric rectification followed by KLT tracking to create a deployable system.</p>
 
