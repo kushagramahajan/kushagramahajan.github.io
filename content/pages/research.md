@@ -3,12 +3,12 @@ Title: Research
 <br>
 <h2>Meta-Learning </h2>
 <h4> Dr. Lovekesh Vig, TCS Research and Innovation Labs</h4>
-<p>We used meta-learning for classification of skin lesions on the ISIC 2018 dataset, and thoracic diseases from the NIH Chest X-ray dataset, obtaining improvement over fine-tuning and other few-shot approaches. Currently, we are extending meta-learning to segmentation of natural scene images and segmentation of tumors in different body parts using CT Scan data. The work is in collaboration with the Institute of Liver and Biliary Sciences, Delhi.</p>
+<p>We used meta-learning for classification of skin lesions on the ISIC 2018 dataset (with Group Equivariant CNN), and thoracic diseases from the NIH Chest X-ray dataset, obtaining improvement over fine-tuning and other few-shot approaches. Currently, we are extending meta-learning to segmentation of natural scene images and segmentation of tumors in different body parts using CT Scan data. The work is in collaboration with the Institute of Liver and Biliary Sciences, Delhi.</p>
 
 <br>
 <h2>Medical and Cellular Image Analysis </h2>
 <h4> Dr. Lovekesh Vig, TCS Research and Innovation Labs</h4>
-<p>We worked on abnormality detection in X-ray images on the Stanford MURA dataset. Approaches used were anomaly detection GAN and autoencoders, visual attention and body parts ensemble model for classification of an image as normal or abnormal. Also, worked on the NeurIPS 2019 competition on disentangling biological signals from experimental noise for classifying gene mutations from cell images. We compared the performances of the ensemble and the composite site-channel models, performed appropriate preprocessing, and applied ArcFace Loss to achieve <b>test accuracy of 96.06%.</b></p>
+<p>We worked on abnormality detection in X-ray images on the Stanford MURA dataset. Approaches used were anomaly detection GAN and autoencoders, visual attention and body parts ensemble model for classification of an image as normal or abnormal. Also, worked on the NeurIPS 2019 competition on disentangling biological signals from experimental noise for classifying gene mutations from cell images. We compared the performances of the ensemble and the composite site-channel models, performed appropriate preprocessing, and applied ArcFace Loss to achieve test accuracy of <b>96.06% (top 5 percentile).</b></p>
 
 <br>
 <h2>Document Information Extraction [<a href="http://kushagramahajan.me/papers/ICDAR_Workshop.pdf">paper</a>]</h2>
