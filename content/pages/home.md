@@ -1,6 +1,6 @@
 Title: Home
 
-I am a final year undergraduate pursuing <a href="https://en.wikipedia.org/wiki/Bachelor_of_Technology">Bachelor of Technology</a> in Computer Science at <a href="https://iiitd.ac.in/">Indraprastha Institute of Information Technology Delhi (IIIT Delhi), India</a>. My research interests are in Deep Learning, Computer Vision, Machine Learning and Automatic Speech Recognition.
+I am a final year undergraduate pursuing <a href="https://en.wikipedia.org/wiki/Bachelor_of_Technology">Bachelor of Technology</a> in Computer Science at <a href="https://iiitd.ac.in/">Indraprastha Institute of Information Technology Delhi (IIIT Delhi), India</a>. My research interests are in Computer Vision, Machine Learning, Deep Learning and Robotics.
 <br>
 
 My CV can be found [here](http://kushagramahajan.me/pdfs/cv.pdf "Kushagra's CV").
