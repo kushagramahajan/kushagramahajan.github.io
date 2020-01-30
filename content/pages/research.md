@@ -28,9 +28,9 @@ Title: Research
 
 
 <br>
-<h2>Disentangling Factors of Variation in Speech</h2>
+<h2>Unsupervised Disentangling of Factors of Variation in Speech</h2>
 <h4> Prof. Saket Anand, IIIT Delhi</h4>
-<p>Used cycle-consistency and a discriminator for the disentanglement of speaker style information from speech samples in the Timit dataset. We build on top of the Factorized Hierarchical VAE approach proposed by CSAIL, MIT. Worked on building a kaldi based toolkit that produces alignment files and word level segmentation for the input wave files according to the supplied model. Developed CNN-RNN architectures for emotion classification on the RECOLA dataset, achieving competitive performance to the state-of-the-art.</p>
+<p>Used cycle-consistency and a discriminator for the disentanglement of speaker style information from speech samples in the Timit dataset without any supervision. We build on top of the Factorized Hierarchical VAE approach proposed by CSAIL, MIT. Worked on building a kaldi based toolkit that produces alignment files and word level segmentation for the input wave files according to the supplied model. Developed CNN-RNN architectures for emotion classification on the RECOLA dataset, achieving competitive performance to the state-of-the-art.</p>
 
 
 
