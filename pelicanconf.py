@@ -37,7 +37,7 @@ MENUITEMS = (
     ('Research', '/pages/research.html'),
     ('Projects', '/pages/academic-projects.html'),
     ('Resume', 'http://kushagramahajan.me/pdfs/cv.pdf'),
-    ('Contact', '/pages/contact.html'),
+    ('Contact & Profiles', '/pages/contact.html'),
 )
 
 DEFAULT_PAGINATION = 10
