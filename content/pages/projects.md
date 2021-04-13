@@ -3,7 +3,7 @@ Title: Projects
 <br>
 <h2>Hand Gesture Detection and Recognition</h2>
 <h4> Mr. Tigi Thomas, Intel Corporation</h4>
-<p>An IP project on sensor based gesture detection and recognition for virtual reality devices and laptops. My task was data preprocessing, followed by building machine learning models for gesture detection and recognition taking into consideration memory constraints and output latency. We tested our system on Google Maps and music system applications by providing gesture controls.</p>
+<p>A <b>2M dollar IP project</b> on sensor based gesture detection and recognition for virtual reality devices and laptops. My task was data preprocessing, followed by building machine learning models for gesture detection and recognition taking into consideration memory constraints and output latency. We tested our system on Google Maps and music system applications by providing gesture controls.</p>
 
 <br>
 <h2>Matrix completion based imputation for single-cell RNA-seq data [<a href="https://github.com/kushagramahajan/GraphReMgC-scRNAseq">code</a>] [<a href="http://kushagramahajan.me/pdfs/scRNAseqImputationReport.pdf">report</a>]</h2>
@@ -48,7 +48,7 @@ monitor the efficiency of the TAs.</p>
 <br>
 <h2>EmuARM Emulator [<a href="http://www.cse.iitd.ac.in/~srsarangi/files/software/emuarm/emuarm-src.zip">code</a>] [<a href="http://www.cse.iitd.ac.in/~srsarangi/files/software/emuarm/emuarm-manual.pdf">manual</a>] [<a href="http://www.cse.iitd.ac.in/~srsarangi/files/software/emuarm/emuArm.jar">software</a>]</h2>
 <h4> Prof. Smruti Sarangi, IIT Delhi</h4>
-<p>An Emulator for compiling, running and debugging assembly programs with both ARM and THUMB architectures; key features include breakpoints, memory and jump mappings, step into and step over functionality, and GUI and command line compile and run options. The emulator is currently deployed in IIT Delhi, IIT Madras, IIT Patna, University of Adelaide, and other institutions.</p>
+<p>An Emulator for compiling, running and debugging assembly programs with both ARM and THUMB architectures; key features include breakpoints, memory and jump mappings, step into and step over functionality, and GUI and command line compile and run options. <b>The emulator is currently deployed in IIT Delhi, IIT Madras, IIT Patna, University of Adelaide, and other institutions.</b></p>
 
 
 <br>
