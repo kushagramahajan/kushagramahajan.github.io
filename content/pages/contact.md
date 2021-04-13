@@ -6,5 +6,5 @@ Title: Contact
 
 # Profiles #
 
-**LinkedIn: ** kushagra-mahajan-456aaaaa [<a href="https://linkedin.com/in/kushagra-mahajan-456aaaaa">link</a>]<br><br>
+**LinkedIn: ** kushagra-mahajan-456aaaaa [<a href="https://linkedin.com/in/mahajan-kushagra">link</a>]<br><br>
 **Github: ** kushagramahajan [<a href="https://github.com/kushagramahajan">link</a>]
