@@ -1,7 +1,7 @@
 Title: Contact
 
-**Phone Number: ** +91-9654744817<br><br>
-**Email: ** <a href="mailto:kushagra14055@iiitd.ac.in">kushagra14055@iiitd.ac.in</a>
+**Phone Number: ** +1-412-214-2036<br><br>
+**Email: ** <a href="mailto:kmahajan@andrew.cmu.edu">kmahajan@andrew.cmu.edu</a>
 <br><br>
 
 # Profiles #
